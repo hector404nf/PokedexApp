@@ -22,6 +22,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "73f189dd-b42c-43ea-b58f-a4577631936c"
+      }
+    },
+    "owner": "hector404nf"
   }
 }
